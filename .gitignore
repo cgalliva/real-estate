@@ -1,0 +1,10 @@
+# User Added Files
+venv/*
+*.DS_Store
+
+# pytest generated files
+coverage.xml
+.coverage
+
+# Python
+*__pycache__/
