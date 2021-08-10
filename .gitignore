@@ -1,6 +1,8 @@
 # User Added Files
 venv/*
 *.DS_Store
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
 
 # pytest generated files
 coverage.xml
